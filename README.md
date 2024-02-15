@@ -13,7 +13,7 @@ In the competitive field of online retail, understanding customer buying pattern
 Market Basket analysis was performed using Python, utilising the appropriate apriori algorithm to identify associations between products purchased at the same time. Online retail transaction data is processed and analysed using Market Basket Analysis techniques. Python libraries such as Pandas, NumPy, and MLxtend were used for the implementation of this analysis.
 
 ## Analysis Results
-![alt text](https://github.com/salsabilafcr/Customer_Retention_Analysis/blob/main/Cohorth%20Analysis.png)
+![alt text](https://github.com/salsabilafcr/Market_Basket_Analysis/blob/main/Market%20Basket%20Analysis.png)
 From the analysis, some interesting insights were found:
 - The Red Hanging Heart T-light Holder product was purchased in 5.9% of the total transactions, demonstrating the product's popularity among customers.
 - Among the buyers of the Red Hanging Heart T-light Holder, 72% of them also purchased the White Hanging Heart T-light Holder. This indicates a strong association between the two products.
